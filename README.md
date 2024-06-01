@@ -1,3 +1,3 @@
-# 学生信息管理系统SIMS
-log：
-![](README_files/1.jpg)
+# 学生信息管理系统SIMS——改动log
+# 
+![](README_files/4.jpg)

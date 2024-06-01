@@ -64,9 +64,9 @@
         </form>
     </div>
 </div>
-<%--<footer style="position:absolute;bottom:0;width:100%;height:100px;text-align:center;font-size:20px;">--%>
-<%--    小组成员：谢海峰 王琼 钟世涛 吴宇豪 谢明位--%>
-<%--</footer>--%>
+<footer style="position:absolute;bottom:0;width:100%;height:100px;text-align:center;font-size:20px;">
+    小组成员：谢海峰 王琼 钟世涛 吴宇豪 谢明位
+</footer>
 
 <footer style="position:absolute;bottom:0;width:100%;height:30px; text-align: center;">© 2023-2024.YOYLING.COM</footer>
 <script src="layui.js"></script>
