@@ -118,21 +118,21 @@ CREATE TABLE `notify`  (
 -- ----------------------------
 -- Records of notify
 -- ----------------------------
-INSERT INTO `notify` VALUES (3, '2020-04-24 15:36:22', '222222222222222222');
-INSERT INTO `notify` VALUES (4, '2020-04-24 15:36:22', '奥术大师所所所所所所所所所所所所所所所所所所所所所所所');
-INSERT INTO `notify` VALUES (5, '2020-04-24 15:36:22', '这是一条测试文本啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊');
-INSERT INTO `notify` VALUES (16, '2020-04-24 18:51:15', '这是4.24最新公告，仅供测试');
-INSERT INTO `notify` VALUES (17, '2020-04-24 19:40:45', '测试发布公告');
-INSERT INTO `notify` VALUES (18, '2020-04-24 19:42:40', '敖德萨大萨达大所多');
-INSERT INTO `notify` VALUES (22, '2020-04-24 20:34:00', '2111111111111');
-INSERT INTO `notify` VALUES (23, '2020-04-24 20:42:31', '4.24最新公告');
-INSERT INTO `notify` VALUES (24, '2020-04-24 20:44:30', '2020.4.24最新公告哈哈哈哈还好哈哈哈哈还好哈哈哈哈还好或或或或');
-INSERT INTO `notify` VALUES (25, '2020-04-24 20:49:35', '增加几个查询模块');
-INSERT INTO `notify` VALUES (26, '2020-04-24 21:00:14', '增加管理员公告发布');
-INSERT INTO `notify` VALUES (28, '2020-05-01 22:06:35', '增加学生端选课系统，增加修改用户信息，修改密码功能');
-INSERT INTO `notify` VALUES (29, '2020-05-13 12:20:10', '增加学生分页功能，管理端添加学生选中列表删除，添加全选');
-INSERT INTO `notify` VALUES (30, '2020-05-18 23:39:16', '增加文件传输服务，管理上传，全员可下载，任意大小类型');
-INSERT INTO `notify` VALUES (31, '2020-05-27 18:29:16', '小吐槽增加富文本编辑器，开源CKEditor 4');
+INSERT INTO `notify` VALUES (3, '2024-04-24 15:36:22', '222222222222222222');
+INSERT INTO `notify` VALUES (4, '2024-04-24 15:36:22', '奥术大师所所所所所所所所所所所所所所所所所所所所所所所');
+INSERT INTO `notify` VALUES (5, '2024-04-24 15:36:22', '这是一条测试文本啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊');
+INSERT INTO `notify` VALUES (16, '2024-04-24 18:51:15', '这是4.24最新公告，仅供测试');
+INSERT INTO `notify` VALUES (17, '2024-04-24 19:40:45', '测试发布公告');
+INSERT INTO `notify` VALUES (18, '2024-04-24 19:42:40', '敖德萨大萨达大所多');
+INSERT INTO `notify` VALUES (22, '2024-04-24 20:34:00', '2111111111111');
+INSERT INTO `notify` VALUES (23, '2024-04-24 20:42:31', '4.24最新公告');
+INSERT INTO `notify` VALUES (24, '2024-04-24 20:44:30', '2020.4.24最新公告哈哈哈哈还好哈哈哈哈还好哈哈哈哈还好或或或或');
+INSERT INTO `notify` VALUES (25, '2024-04-24 20:49:35', '增加几个查询模块');
+INSERT INTO `notify` VALUES (26, '2024-04-24 21:00:14', '增加管理员公告发布');
+INSERT INTO `notify` VALUES (28, '2024-05-01 22:06:35', '增加学生端选课系统，增加修改用户信息，修改密码功能');
+INSERT INTO `notify` VALUES (29, '2024-05-13 12:20:10', '增加学生分页功能，管理端添加学生选中列表删除，添加全选');
+INSERT INTO `notify` VALUES (30, '2024-05-18 23:39:16', '增加文件传输服务，管理上传，全员可下载，任意大小类型');
+INSERT INTO `notify` VALUES (31, '2024-05-27 18:29:16', '小组成员：谢海峰 王琼 钟世涛 吴宇豪 谢明位');
 
 -- ----------------------------
 -- Table structure for photo
