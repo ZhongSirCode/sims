@@ -48,7 +48,7 @@
 </script>
 <script type="text/javascript">
     function alertabout() {
-        alert("学生信息管理系统\n陈双全1812123206");
+        alert("学院人员信息管理系统\n陈双全1812123206");
     }
 </script>
 </body>

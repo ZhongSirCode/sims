@@ -14,7 +14,7 @@
 <body>
 <div class="frame-main">
     <div class="login-main">
-        <header class="layui-elip">学生信息管理系统</header>
+        <header class="layui-elip">学院人员信息管理系统</header>
 
         <!-- 表单选项 -->
         <form class="layui-form" id="registerForm" action="${pageContext.request.contextPath}/registerServlet" method="post">

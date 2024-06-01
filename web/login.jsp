@@ -18,7 +18,7 @@
 <body>
 <div class="frame-main">
     <div class="login-main">
-        <header class="layui-elip">学生信息管理系统</header>
+        <header class="layui-elip">学院人员信息管理系统</header>
         <form class="layui-form" action="" name="formf" method="post">
 
             <div class="layui-input-inline">
