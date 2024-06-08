@@ -107,3 +107,68 @@
 ### 8.文件上传？？？？
 ——————————————————————————————————————————————————
 tips：如果出现“成功除了努力之外没有其他诀窍”，可能是没有相应的权限访问该界面
+
+
+
+####  1.登录注册
+### 注册
+![](README_files/23.jpg)
+![](README_files/24.jpg)
+### 登录
+![](README_files/25.jpg)
+![](README_files/26.jpg)
+### 公告管理
+![](README_files/46.jpg)
+![](README_files/47.jpg)
+### 文件发布管理
+![](README_files/48.jpg)
+![](README_files/49.jpg)
+### 小吐槽
+![](README_files/51.jpg)
+
+#### 2.学生模块
+### 查询学生
+![](README_files/27.jpg)
+### 学生选课
+![](README_files/28.jpg)
+### 学生查看本院教师信息
+![](README_files/29.jpg)
+### 学生查看学院专业信息
+![](README_files/31.jpg)
+### 学生修改学生个人信息
+![](README_files/32.jpg)
+### 学生修改学生个人密码
+![](README_files/33.jpg)
+
+#### 3.教师模块
+### 添加授课信息
+![](README_files/34.jpg)
+### 修改授课信息
+![](README_files/35.jpg)
+### 查看学生选课信息
+![](README_files/36.jpg)
+### 删除授课信息
+![](README_files/37.jpg)
+### 教师查询本院学生信息
+![](README_files/38.jpg)
+### 教师查询本院教师信息
+![](README_files/39.jpg)
+### 教师查询学院专业查询
+![](README_files/40.jpg)
+### 教师修改教师个人信息
+![](README_files/41.jpg)
+### 教师修改教师个人密码
+![](README_files/42.jpg)
+
+#### 4.管理员模块
+### 查看所有选课信息
+![](README_files/43.jpg)
+### 增删改查学生信息
+![](README_files/45.jpg)
+### 增删改查教师信息
+![](README_files/30.jpg)
+### 学院专业信息查询（删除功能bug）
+![](README_files/44.jpg)
+### 修改管理员密码
+![](README_files/50.jpg)
+
