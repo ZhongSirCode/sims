@@ -48,7 +48,7 @@
 </script>
 <script type="text/javascript">
     function alertabout() {
-        alert("学院人务管理系统\n陈双全1812123206");
+        alert("学院人务管理系统\n小组成员：谢海峰 王琼 钟世涛 吴宇豪 谢明位");
     }
 </script>
 </body>
